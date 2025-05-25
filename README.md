@@ -15,6 +15,27 @@
 
 ---
 
+
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nasiri-ma&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasiri-ma&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌱 Feel free to explore my repositories!
+
+If you're curious about my work or looking for inspiration, check out my GitHub repos  
+➡️ **[@nasiri-ma](https://github.com/nasiri-ma)**
+
+Let’s build something awesome together 🚀
+
+---
+
 ### 📫 Connect with Me
 
 <p align="left">
@@ -31,26 +52,3 @@
     <img alt="X" src="https://img.icons8.com/ios-filled/30/000000/twitterx--v2.png" />
   </a>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nasiri-ma&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasiri-ma&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 🌱 Feel free to explore my repositories!
-
-If you're curious about my work or looking for inspiration, check out my GitHub repos  
-➡️ **[@nasiri-ma](https://github.com/nasiri-ma)**
-
-Let’s build something awesome together 🚀
-
----
