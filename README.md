@@ -22,7 +22,7 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nasiri-ma&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasiri-ma&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nasiri-ma&show_icons=true&theme=merko" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasiri-ma&theme=merko" alt="GitHub Streak" />
 </p>
 
 ---
@@ -33,22 +33,3 @@ If you're curious about my work or looking for inspiration, check out my GitHub 
 ➡️ **[@nasiri-ma](https://github.com/nasiri-ma)**
 
 Let’s build something awesome together 🚀
-
----
-
-### 📫 Connect with Me
-
-<p align="left">
-  <a href="https://github.com/nasiri-ma" target="_blank">
-    <img alt="GitHub" src="https://img.icons8.com/ios-filled/30/000000/github.png" />
-  </a>
-  <a href="https://t.me/mhmdammiinn" target="_blank">
-    <img alt="Telegram" src="https://img.icons8.com/ios-filled/30/2CA5E0/telegram-app.png" />
-  </a>
-  <a href="https://instagram.com/mhmdamin.nasiri" target="_blank">
-    <img alt="Instagram" src="https://img.icons8.com/ios-filled/30/E4405F/instagram-new.png" />
-  </a>
-  <a href="https://x.com/d_mhmdammiinn" target="_blank">
-    <img alt="X" src="https://img.icons8.com/ios-filled/30/000000/twitterx--v2.png" />
-  </a>
-</p>
