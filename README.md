@@ -15,18 +15,6 @@
 
 ---
 
-
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nasiri-ma&show_icons=true&theme=merko" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasiri-ma&theme=merko" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🌱 Feel free to explore my repositories!
 
 If you're curious about my work or looking for inspiration, check out my GitHub repos  
