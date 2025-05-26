@@ -14,7 +14,7 @@
 
 ---
 
-![snake animation](https://github.com/nasiri-ma/nasiri-ma/blob/dist/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/nasiri-ma/nasiri-ma/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
