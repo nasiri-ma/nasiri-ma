@@ -14,6 +14,10 @@
 
 ---
 
+![snake animation](https://github.com/nasiri-ma/nasiri-ma/blob/dist/github-contribution-grid-snake.svg)
+
+---
+
 ## 🛠 Skills
 
 <div align="center">
