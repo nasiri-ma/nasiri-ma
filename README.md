@@ -11,7 +11,7 @@
 ### 💻 About Me
 
 - 💡 I'm a **Python developer** who enjoys working in **Linux environments**.
-- 🔍 Passionate about **open-source**, clean code, and learning how systems work *under the hood*.
+- 🔍 Passionate about **open-source**, clean code, and learning how systems   work *under the hood*.
 - 🚀 I love exploring **new technologies** and staying up-to-date with the latest trends.
 - 🤝 Always open to **collaboration**, contributing to interesting projects, and learning from others.
 <br>
