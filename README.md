@@ -2,8 +2,11 @@
   <img src="banner.png" alt="Github Profile Banner" />
 </p>
 
-
 ---
+
+<br>
+
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 💻 About Me
 
@@ -11,10 +14,7 @@
 - 🔍 Passionate about **open-source**, clean code, and learning how systems work *under the hood*.
 - 🚀 I love exploring **new technologies** and staying up-to-date with the latest trends.
 - 🤝 Always open to **collaboration**, contributing to interesting projects, and learning from others.
-
----
-
-![snake gif](https://github.com/nasiri-ma/nasiri-ma/blob/output/github-contribution-grid-snake.svg)
+<br>
 
 ---
 
@@ -51,5 +51,4 @@
 
 If you're curious about my work or looking for inspiration, check out my GitHub repos  
 ➡️ **[@nasiri-ma](https://github.com/nasiri-ma)**
-
 Let’s build something awesome together 🚀
