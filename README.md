@@ -34,6 +34,14 @@
 
 ---
 
+## 📫 Contact Me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mhmdammiinn)
+[![X](https://img.shields.io/badge/-X-black?style=flat&logo=twitter&logoColor=white)](https://x.com/d_mhmdammiinn)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-amin-nasiri-6a1a83367/)
+
+---
+
 ### 🌱 Feel free to explore my repositories!
 
 If you're curious about my work or looking for inspiration, check out my GitHub repos  
