@@ -1,8 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Mohammad Amin Nasiri</h1>
-
 <p align="center">
-  🐍 Python Developer | 🐧 Linux Enthusiast | 🚀 Tech Explorer  
+  <img src="banner.png" alt="Github Profile Banner" />
 </p>
+
 
 ---
 
