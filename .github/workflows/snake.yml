@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # هر روز یکبار اجرا میشه
-  workflow_dispatch: # امکان اجرای دستی
+    - cron: "0 0 * * *"  # اجرای خودکار روزانه
+  workflow_dispatch:  # قابلیت اجرای دستی
 
 jobs:
   generate:
@@ -12,16 +12,16 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate the Snake
+      - name: Generate the snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: nasiri-ma
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push the changes
         uses: EndBug/add-and-commit@v9
         with:
           message: "Generated snake animation"
-          add: "dist/*.svg"
+          add: "output/*.svg"
