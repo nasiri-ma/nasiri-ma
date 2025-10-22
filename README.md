@@ -1,19 +1,7 @@
 <p align="center">
-  <img src="banner.png" alt="Github Profile Banner" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" alt="Cool Animation">
 </p>
 
----
-
-<br>
-
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-### 💻 About Me
-
-- 💡 I'm a **Python developer** who enjoys working in **Linux environments**.
-- 🔍 Passionate about **open-source**, clean code, and learning how systems work *under the hood*.
-- 🚀 I love exploring **new technologies** and staying up-to-date with the latest trends.
-- 🤝 Always open to **collaboration**, contributing to interesting projects, and learning from others.
 <br>
 
 ---
@@ -36,8 +24,10 @@
 
 ---
 
-### 🌱 Feel free to explore my repositories!
+<br>
+<br>
 
-If you're curious about my work or looking for inspiration, check out my GitHub repos  
-➡️ **[@nasiri-ma](https://github.com/nasiri-ma)**
-Let’s build something awesome together 🚀
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+       alt="Ending Animation">
+</p>
