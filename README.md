@@ -1,7 +1,7 @@
 ## 🛠 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali,arch,ubuntu,python,django,flask,github,nodejs,docker,git,html,css,js,ts" />
+  <img src="https://skillicons.dev/icons?i=linux,debian,arch,ubuntu,python,django,flask,github,nodejs,git,html,css,js,ts" />
 </p>
 
 ---
