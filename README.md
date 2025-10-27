@@ -10,9 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-amin-nasiri-6a1a83367/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nasiri-ma)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mhmdammiinn)
-[![X](https://img.shields.io/badge/-X-black?style=flat&logo=twitter&logoColor=white)](https://x.com/d_mhmdammiinn)
-<!-- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mhmdammiinn/) -->
 
 
 ---
