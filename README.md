@@ -1,16 +1,8 @@
 ## 🛠 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,debian,arch,ubuntu,python,django,flask,github,nodejs,git,html,css,js,ts" />
+  <img src="https://skillicons.dev/icons?i=linux,python,github,git,html,css,js" />
 </p>
-
----
-
-## 📫 Contact Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-amin-nasiri-6a1a83367/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nasiri-ma)
-
 
 ---
 
