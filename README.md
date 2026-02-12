@@ -1,14 +1,9 @@
-# Hi there 👋 
-# I'm Mohammad Amin Nasiri
+# Mohammad Amin Nasiri — Python Developer
 
-💻  Junior Python Developer | 🌐  Web Enthusiast  
-
-I'm a passionate Python developer focused on web technologies.  
-I enjoy building clean, scalable solutions and continuously improving my technical skills.
+Passionate about web technologies, building clean and scalable solutions,  
+and continuously learning new skills. I love teamwork and collaboration.
 
 ---
-
-<h2 align="center"><b>Skills</b></h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,python,github,git,html,css,django,flask,docker,fastapi,mysql" />
