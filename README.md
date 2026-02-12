@@ -1,7 +1,7 @@
 <h2 align="center"><b>Skills</b></h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,github,git,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=linux,python,github,git,html,css,django,flask,docker,fastapi" />
 </p>
 
 ---
