@@ -5,20 +5,6 @@
 I'm a passionate Python developer focused on web technologies.  
 I enjoy building clean, scalable solutions and continuously improving my technical skills.
 
-## 🚀 About Me
-
-- 🐍 Junior Python Developer with a focus on backend development  
-- 🌍 Interested in Web Development and modern web technologies  
-- 📚 Lifelong learner — always exploring new tools, frameworks, and concepts  
-- 🤝 Strong believer in teamwork, collaboration, and knowledge sharing  
-- 🧠 Curious mindset with a passion for solving real-world problems  
-
-## 🎯 Goals
-
-- Improve backend architecture and scalable system design skills  
-- Contribute to open-source projects  
-- Collaborate on meaningful and impactful software projects  
-
 ---
 
 <h2 align="center"><b>Skills</b></h2>
