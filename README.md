@@ -6,7 +6,7 @@ and continuously learning new skills. I love teamwork and collaboration.
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,github,git,html,css,django,flask,docker,fastapi,mysql" />
+  <img src="https://skillicons.dev/icons?i=linux,python,github,git,html,css,django,mysql" />
 </p>
 
 ---
